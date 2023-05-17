@@ -15,4 +15,4 @@ const postblog = [
     }
   ];
 
-  export default postblog;
+  export default postblog ;
